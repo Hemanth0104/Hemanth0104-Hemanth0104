@@ -1,6 +1,6 @@
 
 
-# Hi, I'm Hemanth 👋
+# Hi, I'm Hemanth  Pusuluri 👋
 🎓 MSc Data Science | 📊 Aspiring Data Analyst | 🤖 AI & ML Enthusiast
 
 **MSc Data Science** student | Aspiring Data Analyst  
