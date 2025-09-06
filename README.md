@@ -32,8 +32,9 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hemanth0104&layout=compact&theme=tokyonight)
 
-##  Contact Me
-- LinkedIn: https://www.linkedin.com/in/hemanth-pusuluri-47a618220/
-- Email: hemanthpusuluri2002@gmail.com
-- - 📄 [Download My Resume](https://drive.google.com/file/d/18R-eytVj-6cnOzcMEKIcPxtCwfTvLvlJ/view?usp=sharing)
+## 📬 Contact Me  
+
+- [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hemanth-pusuluri-47a618220/)  
+- [![Gmail](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:hemanthpusuluri2002@gmail.com)  
+- [![Resume](https://img.shields.io/badge/Resume-4285F4?style=flat&logo=googledrive&logoColor=white)](https://drive.google.com/file/d/18R-eytVj-6cnOzcMEKIcPxtCwfTvLvlJ/view?usp=sharing)  
 
